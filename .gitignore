@@ -184,4 +184,5 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 03 - Series.ipynb
+04 - DataFrames I - Introduction.ipynb
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
