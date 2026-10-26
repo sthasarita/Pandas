@@ -1,0 +1,13 @@
+Department,Role,Base_Salary,Bonus
+Engineering,Backend Engineer,115000,12000
+Engineering,Frontend Engineer,105000,10000
+Engineering,DevOps Engineer,120000,14000
+Engineering,QA Engineer,90000,8000
+Data,Data Scientist,125000,15000
+Data,Data Analyst,85000,7500
+Data,Data Engineer,118000,13000
+Marketing,SEO Specialist,70000,5000
+Marketing,Content Strategist,75000,6000
+Marketing,Growth Marketer,95000,9000
+Sales,Account Executive,80000,25000
+Sales,Sales Manager,110000,30000
